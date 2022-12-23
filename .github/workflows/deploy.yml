@@ -34,3 +34,8 @@ jobs:
 
     - name: Run test suite
       run: vendor/bin/phpunit tests
+
+    # - name: SFTP Deploy
+    #   uses: wlixcc/SFTP-Deploy-Action@master
+
+
