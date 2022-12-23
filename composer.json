@@ -1,0 +1,17 @@
+{
+    "name": "gturpin/test-ci-cd-php",
+    "autoload": {
+        "psr-4": {
+            "Gturpin\\TestCiCdPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gturpin-dev",
+            "email": "guillaume.turpin45@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
